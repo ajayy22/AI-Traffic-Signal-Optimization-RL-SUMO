@@ -180,7 +180,7 @@ python analysis/plot.py
 
 ## 👨‍💻 Author
 
-**BHAV SHISHODIA**
+**AJAY Y**
 B.Tech & M.Tech in AI & ML
 
 ---
